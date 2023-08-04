@@ -1,0 +1,40 @@
+.cookingback{
+    
+}
+
+
+.text_cook p{
+    font-size: 22px;
+    text-align: center;
+    margin: 10px 30%;
+}
+
+.hr_class{
+    color: rgb(165, 165, 165);
+    margin: auto 470px;
+}
+
+.contents{
+    text-align: center;
+}
+
+.contents a{
+    padding-left: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #CC0088;
+    
+}
+
+.reads a{
+    text-decoration: none;
+    color: #CC0088 ;
+}
+
+.reads p{
+     margin: 10px 30%;
+}
+
+.reads h6{
+    margin: 10px 30%;
+}

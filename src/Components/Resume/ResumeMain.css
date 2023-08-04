@@ -1,0 +1,33 @@
+.resume_main{
+    background-color: rgb(33,33,33);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vh;
+}
+
+.resume_button{
+    margin: 40px;
+      font-size: 100px;
+}
+
+.eyecon{
+    color: gray;
+}
+
+.eyecon:hover{
+    color: whitesmoke;
+}
+
+@media screen and (max-width: 768px){
+    .resume_button{
+        margin: 50px;
+          font-size: 80px;
+    }
+    .resume_main{
+        
+        height: 30vh;
+    }
+
+
+}

@@ -1,0 +1,33 @@
+.mini_about{
+    background-image: url("https://mcdn.wallpapersafari.com/medium/24/80/82GQEX.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+
+.status_para{
+    font-size: 25px;
+    margin: 5px 70px;
+}
+
+.colorplay{
+    color: #CC0088;
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+    .mini_about{
+        height: 120vh;
+        word-wrap: break-word;
+    }
+
+    .status_para{
+        font-size: 20px;
+        margin: 2px 50px;
+        word-wrap: break-word;
+    }
+
+}

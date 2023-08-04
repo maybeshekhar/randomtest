@@ -1,0 +1,16 @@
+.cardgroup_class{
+   margin: 100px;
+}
+
+.cardtext_class{
+    font-size: 20px;
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+    .cardgroup_class{
+        margin: 35px;
+    }
+}

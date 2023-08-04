@@ -1,0 +1,50 @@
+.footer_class{
+    
+    padding: 40px;
+
+}
+
+.footer_class hr{
+    margin: auto 470px;
+}
+
+
+.social_iconss a{
+    font-size: 25px;
+    color: gainsboro ;
+    padding-left: 20px;
+    padding-right: 20px;
+   }
+
+
+
+.footer_main{
+    background-color: rgb(33,33,33);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 25vh;
+}
+
+@media screen and (max-width: 768px) {
+   
+    /* .footer_class hr{
+        margin: auto 50px;
+    } */
+
+   .footer_class h5{
+       font-size: 14px;
+       margin-top: 5px ;
+   }
+
+   .social_iconss a{
+    font-size: 15px;
+    color: gainsboro ;
+    padding-left: 20px;
+   }
+
+   .footer_main{
+   
+    height: 20vh;
+}
+}

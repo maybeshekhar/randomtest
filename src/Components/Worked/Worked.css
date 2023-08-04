@@ -1,0 +1,98 @@
+.workedback{
+   /*  background-image: url("https://wallpaperaccess.com/full/670457.jpg"); */
+   background-color: rgb(33,33,33);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 330vh;
+}
+
+.card_text p{
+    color: whitesmoke;
+    font-size: 25px;
+    margin: 5px 70px;
+    
+}
+
+/* .work_image{
+  transition: 0.3s;
+}
+
+.work_image:hover{
+  transform: scale(1.1);
+  z-index: 1;
+} */
+
+.work_image_ajatus{
+  transition: 0.3s;
+  height: 390px;
+}
+
+.work_image_ajatus:hover{
+  transform: scale(1.1);
+  z-index: 1;
+}
+
+
+.work_image_asiana{
+transition: 0.3s;
+height: 390px;
+}
+
+.work_image_asiana:hover{
+  transform: scale(1.1);
+  z-index: 1;
+}
+
+.work_image_vyncx{
+  transition: 0.3s;
+  height: 390px;
+}
+
+.work_image_vyncx:hover{
+  transform: scale(1.1);
+  z-index: 1;
+}
+
+.card_group{
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+
+  .card_text p{
+    color: whitesmoke;
+    font-size: 19px;
+    margin: 2px 40px;
+    word-wrap: break-word;
+  }
+
+  .work_image_ajatus{
+    height: 310px;
+   
+  }
+
+  .work_image_vyncx{
+    height: 310px;
+   
+  }
+
+  .work_image_asiana{
+    height: 310px;
+   
+  }
+
+  .workedback{
+    height: 320vh;
+  }
+
+  .card_group{
+    text-align: center;
+  }
+
+ 
+}
+
+
+
+/* paragraph color: 'whitesmoke', fontsize: 25px */

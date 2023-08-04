@@ -1,0 +1,44 @@
+.skillback{
+    background-image: url("https://mcdn.wallpapersafari.com/medium/24/80/82GQEX.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 52vh;
+}
+
+.skillback p{
+    font-size: 23px;
+    margin: 5px 70px;
+}
+
+.myskills_class{
+    height: 50vh;
+}
+
+.carousal_style{
+    height: 50vh;
+    width: 80%;
+    padding-left: 20%;
+}
+
+
+@media screen and (max-width: 768px) {
+
+
+    .skillback{
+        height: 75vh;
+    }
+    .skillback p{
+        font-size: 20px;
+        margin: 2px 50px;
+        word-wrap: break-word;
+    }
+
+    .carousal_style{
+        
+        width: 95%;
+        padding-left: 5%;
+        padding-top: 60%;
+        
+    }
+}
