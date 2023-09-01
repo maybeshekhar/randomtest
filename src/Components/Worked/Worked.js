@@ -16,49 +16,6 @@ const Worked = () => {
                  <img src={group} alt="" height={'100px'}  style={{margin: '50px'}}/>
           </div>    
 
-          {/* <div className='ajatus' style={{textAlign: 'center'}}>
-             <img style={{borderRadius: '50%'}} src="https://media.licdn.com/dms/image/C510BAQFoU3-R-5C1Vw/company-logo_200_200/0/1564633358835?e=2147483647&v=beta&t=PiiBqIC9NbkSU4rj7Tb8pl6YGAF3m-e4h0d-aGSEuyc" alt="" />
-          </div>
-          <br />
-
-          <div style={{textAlign: 'center'}}>
-          <h1 style={{ color: 'whitesmoke'}}>Ajatus Software</h1>
-          <br />
-            <p style={{color:'whitesmoke'}}>July - Sept '22</p>
-             <br />
-            <p style={{color: 'whitesmoke' , fontSize: '25px' , margin: '5px 70px'}}>
-            During my three-month internship as a React JS      developer, I had the
-            opportunity to work on two exciting projects. First, I built the user
-            dashboard for a prominent air purifier company's website, enhancing
-            the user experience and ensuring seamless functionality. Additionally,
-            I actively contributed my skills to a cross-platform cloud kitchen food
-            application, assisting in its development and delivering impactful
-            solutions. Overall, my internship provided valuable hands-on experience</p>
-          </div>
-
-            <br /> <br /> <br />
-
-          <div className='ajatus' style={{textAlign: 'center'}}>
-             <img style={{borderRadius: '50%'}} src="https://play-lh.googleusercontent.com/6hejIJlSXD39pRTdXkCHr0_TCzuRrjK421xl1D6LZmygcuOrg50RXhiNONTifGjLZQ=w240-h480-rw" alt="" />
-          </div>
-          <br />
-          <div style={{textAlign: 'center'}}>
-          <h1 style={{ color: 'whitesmoke'}}>Vyncx Corporation</h1>
-          <br />
-            <p style={{color:'whitesmoke'}}>June - Sept '20</p>
-             <br />
-            <p style={{color: 'whitesmoke' , fontSize: '25px' , margin: '5px 70px'}}>
-            During my four-month internship as a Market Research Analyst, I had
-the opportunity to work with a GPS tracking system company. My
-main focus was on an internal product designed to streamline the
-client review process during client onboarding. I conducted extensive
-market research to gather insights and identify key pain points in the
-existing review process. This allowed me to enhance my analytical
-skills and gain valuable knowledge in improving internal processes for
-client satisfaction.
-</p>
-          </div> */}
-
           <CardGroup className='card_group'>
       <Card style={{border: 'none'}}>
         

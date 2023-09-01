@@ -42,7 +42,7 @@ const ProjectContent = () => {
               <Card.Title className='title_class'> <h3>Imaginary Tinder</h3></Card.Title>
               <br />
               <Card.Text className='text_class'><p>
-              I've created a UI that's just like Tinder, and added swipe-able cards with smooth swiping animations. And guess what? I've used the latest Firebase version, v9, to power it up and make it even better. Just click on the image and dive right in.</p>
+              I've created a UI that's just like Tinder, and added swipe-able cards with smooth swiping animations. And guess what? I've used the latest Firebase version V9, to power it up and make it even better. Just click on the image and dive right in.</p>
               </Card.Text>
             </Card.Body>
           </Card>

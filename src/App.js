@@ -24,7 +24,7 @@ import FullCooking from './Components/SomethingCooking/FullCooking';
 
 function App() {
    
- /*  useEffect(() => {
+  useEffect(() => {
     const handleContextmenu = e => {
         e.preventDefault()
     }
@@ -33,7 +33,7 @@ function App() {
         document.removeEventListener('contextmenu', handleContextmenu)
     }
 }, [ ])
- */
+
   return (
 
     <>
